@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://godgpt-v2.vercel.app/"><b>🌐 Live Demo → godgpt-v2.vercel.app</b></a>
+  <a href="[https://streamain.com/en/cCuxGP1E44chcaO/watch]"><b>🌐 Live Demo Video</b></a>
 </p>
 
 ---
