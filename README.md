@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://streamain.com/en/cCuxGP1E44chcaO/watch"><b>🌐 Live Demo Video V1</b></a>
-  <a href="https://streamain.com/en/cCuxGP1E44chcaO/watch"><b>🌐 Live Demo Video V2</b></a>
+  <a href="https://streama.in/McDw0TKuP1xf1XN/watch"><b>🌐 Live Demo Video V2</b></a>
 </p>
 
 ---
