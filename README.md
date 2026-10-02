@@ -20,8 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://streamain.com/en/cCuxGP1E44chcaO/watch"><b>🌐 Live Demo Video V1</b></a>
-  <a href="https://streama.in/McDw0TKuP1xf1XN/watch"><b>🌐 Live Demo Video V2</b></a>
+  <a href="https://godgpt-alpha.vercel.app/#:~:text=INTERACTIVE%20SHOWCASE-,Watch%20A,Demo,-Experience%20the%20raw"><b>🌐 Live Demo Video</b></a>
 </p>
 
 ---
